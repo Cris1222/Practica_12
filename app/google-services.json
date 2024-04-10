@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "451946838569",
+    "project_id": "fir-loginv1-a7b13",
+    "storage_bucket": "fir-loginv1-a7b13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451946838569:android:d60f8455dcb44ba197fa38",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.practica_12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKCXwEo8KOntrMUWR0Yufr8TdDWPDq0cQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
